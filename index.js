@@ -1,4 +1,4 @@
-const rect = require('./Node/rectangle')
+const rect = require('./rectangle')
 
 const solveRect = (l,b) =>{
 console.log("Solving for rectangle with l = " + l + " and b =" +b)
